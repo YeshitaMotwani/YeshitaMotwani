@@ -6,7 +6,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.Tech CSE (AIML Track) | CGPA: 9.32/10  
+- 🎓 B.Tech CSE (AIML Track) | CGPA: 9.4/10  
 - 🏆 Academic Excellence Award (First Rank - FY)  
 - 🏅 Best Research Paper Award – NCTAAI 4.0  
 - 🔬 Researching: AI Security, Signal Processing, Robust ML Systems  
