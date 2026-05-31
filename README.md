@@ -49,7 +49,7 @@ IDENTITY.json
   "role":       "AI/ML Researcher & Engineer",
   "university": "D Y Patil International University (DYPIU)",
   "degree":     "B.Tech CSE  ·  2023 → 2027",
-  "cgpa":       "9.4 / 10",
+  "cgpa":       "9.3 / 10",
   "mission":    "Build AI that perceives, reasons, and stays safe in the real world.",
   "superpower": "Transforming raw audio into machine intelligence.",
   "research":   ["Speech & Acoustic Intelligence", "AI Security", "Computer Vision", "AI for Defence"],
