@@ -4,12 +4,6 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=18&pause=1000&color=FF6EB4¢er=true&vCenter=true&width=700&lines=Building+Multi-Agent+Workflows+%26+Foundation+Models.;Research+Intern+%40+DIAT%2C+DRDO+%7C+Multi-Agent+RL.;Fine-Tuning+LLMs+with+QLoRA+%26+LangGraph.;B.Tech+CSE+%40+DYPIU+%7C+CGPA+9.32%2F10.;Best+Research+Paper+Award+%E2%80%94+NCTAAI+4.0." alt="Typing SVG" />
-</a>
-
-<br/><br/>
-
 <a href="mailto:yeshita.motwani2006@gmail.com">
   <img src="https://img.shields.io/badge/✉%20Email-ff6eb4?style=for-the-badge&logoColor=white"/>
 </a>
